@@ -110,7 +110,7 @@ Magic 8-Ball's answer: Better not tell you now
     To do this, you will need to increase the range of randomly generated numbers and add additional elif statements for each new answer.
 13. What if the asker does not provide a name, such that the value of name is an empty string? If the name string is empty, the output of the program looks like the following:
     ```
-    asks: Will I win the lottery?
+     asks: Will I win the lottery?
     Magic 8 Ball's answer: Outlook not so good
     ```
 
