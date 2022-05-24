@@ -7,3 +7,4 @@
 * Resources: [Codecademy: Python](https://www.codecademy.com/resources/docs/python)
 * Workspace: [Codecademy: Python](https://www.codecademy.com/workspaces/new)
 * Code Challenges: [Codecademy](https://www.codecademy.com/code-challenges)
+* Youtube: [Tuples in Python](https://www.youtube.com/watch?v=yDvRR8nWMNI&t=4s)
