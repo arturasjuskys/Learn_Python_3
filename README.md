@@ -8,3 +8,4 @@
 * Workspace: [Codecademy: Python](https://www.codecademy.com/workspaces/new)
 * Code Challenges: [Codecademy](https://www.codecademy.com/code-challenges)
 * Youtube: [Tuples in Python](https://www.youtube.com/watch?v=yDvRR8nWMNI&t=4s)
+* Codecademy: [How to Use Jupyter Notebooks](https://www.codecademy.com/article/how-to-use-jupyter-notebooks)
